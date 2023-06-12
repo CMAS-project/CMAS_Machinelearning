@@ -20,7 +20,7 @@ CMAS MACHINE LEARNING
 # CMAS Mobile Develoment Project
 Our final project for Google Bangkit Academy 2023 revolves around Machine Learning Project. It serves as the culmination of our learning and skills acquired during the program.
 
-**Machine Learning:**
+**Mobile Developer:**
 [CMAS Mobile Development](https://github.com/CMAS-project/CMAS_MobileAPP)
 
 **Cloud:**
