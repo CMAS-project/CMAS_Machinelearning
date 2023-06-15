@@ -17,7 +17,7 @@ CMAS MACHINE LEARNING
 * (CC) C172DKY4104 - Septiyani Nadia Astuti - Universitas Gunadarma
 * (MD) A161DKX3846 - Ardena Afif Pratama - Universitas Darussalam Gontor
 
-# CMAS Mobile Develoment Project
+# CMAS Machine Learning Project
 Our final project for Google Bangkit Academy 2023 revolves around Machine Learning Project. It serves as the culmination of our learning and skills acquired during the program.
 
 **Mobile Developer:**
